@@ -1,0 +1,58 @@
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe.config
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\obj\Debug\Terapeutica.csprojResolveAssemblyReference.cache
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\obj\Debug\Terapeutica.Form1.resources
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\obj\Debug\Terapeutica.Form2.resources
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\obj\Debug\Terapeutica.Properties.Resources.resources
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\obj\Debug\Terapeutica.csproj.GenerateResource.Cache
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\bin\Debug\Terapeutica.pdb
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\obj\Debug\Terapeutica.exe
+E:\2ºANO\1S\PROGRAMAÇÃO II\Terapeutica\Terapeutica\obj\Debug\Terapeutica.pdb
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe.config
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.exe
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.pdb
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.pdb
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.csprojResolveAssemblyReference.cache
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.Form1.resources
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.Form2.resources
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.Properties.Resources.resources
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.csproj.GenerateResource.Cache
+E:\2ºANO\1S\PROGRAMAÇÃO II\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.FormTerapeutica.resources
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe.config
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.exe
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.pdb
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.pdb
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.csprojResolveAssemblyReference.cache
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.Form1.resources
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.FormTerapeutica.resources
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.Properties.Resources.resources
+F:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.csproj.GenerateResource.Cache
+H:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe.config
+H:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.exe
+H:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.pdb
+C:\Users\Marcelo Ferreira\Desktop\Trabalho, prog,esta,eletr\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe.config
+C:\Users\Marcelo Ferreira\Desktop\Trabalho, prog,esta,eletr\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.exe
+C:\Users\Marcelo Ferreira\Desktop\Trabalho, prog,esta,eletr\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.pdb
+C:\Users\Marcelo Ferreira\Desktop\Trabalho, prog,esta,eletr\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Ferreira\Desktop\Trabalho, prog,esta,eletr\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.Form1.resources
+C:\Users\Marcelo Ferreira\Desktop\Trabalho, prog,esta,eletr\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.FormTerapeutica.resources
+C:\Users\Marcelo Ferreira\Desktop\Trabalho, prog,esta,eletr\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.Properties.Resources.resources
+C:\Users\Marcelo Ferreira\Desktop\Trabalho, prog,esta,eletr\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.csproj.GenerateResource.Cache
+I:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe.config
+I:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.exe
+I:\Escola\2º Ano\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.pdb
+D:\Universidade\2º Ano\S1\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\bin\Debug\Terapeutica.exe.config
+D:\Universidade\2º Ano\S1\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.exe
+D:\Universidade\2º Ano\S1\Programaçao II\Projetos\6º-Terapeutica\Terapeutica\obj\Debug\Terapeutica.pdb
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\bin\Debug\Terapeutica.exe.config
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\obj\Debug\Terapeutica.exe
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\obj\Debug\Terapeutica.pdb
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\bin\Debug\Terapeutica.exe
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\bin\Debug\Terapeutica.pdb
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\obj\Debug\Terapeutica.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\obj\Debug\Terapeutica.Form1.resources
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\obj\Debug\Terapeutica.FormTerapeutica.resources
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\obj\Debug\Terapeutica.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Clinica Fam\Terapeutica\obj\Debug\Terapeutica.csproj.GenerateResource.Cache

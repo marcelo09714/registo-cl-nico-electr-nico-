@@ -1,0 +1,158 @@
+<?xml version="1.0" standalone="yes"?>
+<therapies_dataset>
+  <datatable_clients>
+    <name>Ana Duarte</name>
+    <birthday>06/06/2018 14:51:46</birthday>
+    <gender>Feminino</gender>
+    <id>1528293200114</id>
+    <nutente>123</nutente>
+    <CC>321</CC>
+    <morada>Rua das Rosas</morada>
+    <contacto>123456789</contacto>
+    <email>ana@gmail.com</email>
+    <subsistema>SNS</subsistema>
+  </datatable_clients>
+  <datatable_clients>
+    <name>Marcelo Ferreira</name>
+    <birthday>06/06/2018 14:51:46</birthday>
+    <gender>Masculino</gender>
+    <id>1528293256809</id>
+    <nutente>456</nutente>
+    <CC>654</CC>
+    <morada>Rua das Camélias</morada>
+    <contacto>987654321</contacto>
+    <email>marcelo@gmail.com</email>
+    <subsistema>SNS</subsistema>
+  </datatable_clients>
+  <datatable_clients>
+    <name>Fernando Costa</name>
+    <birthday>06/06/2018 14:51:46</birthday>
+    <gender>Masculino</gender>
+    <id>1528293330538</id>
+    <nutente>789</nutente>
+    <CC>987</CC>
+    <morada>Rua das Margaridas</morada>
+    <contacto>679854132</contacto>
+    <email>fernando@gmail.com</email>
+    <subsistema>SNS</subsistema>
+  </datatable_clients>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1512060062142</client_id>
+    <id>1512060287641</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1512060062142</client_id>
+    <id>1512060334145</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name>wefwefw</name>
+    <qtd>1</qtd>
+    <posology>fewfwf</posology>
+    <client_id>1512060062142</client_id>
+    <id>1512060338397</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1526572019599</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name>fdsce</name>
+    <qtd>2</qtd>
+    <posology>vrvw</posology>
+    <client_id>1526571935627</client_id>
+    <id>1526572025373</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528121498514</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528121498798</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528121500150</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528121500740</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528121501114</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528121553267</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name>sfeafae</name>
+    <qtd>1</qtd>
+    <posology>btdbge</posology>
+    <client_id>1526571935627</client_id>
+    <id>1528121562379</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528122194113</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528122194620</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528122195124</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1526571935627</client_id>
+    <id>1528122195564</id>
+  </datatable_medications>
+  <datatable_medications>
+    <name />
+    <qtd>0</qtd>
+    <posology />
+    <client_id>1528124105490</client_id>
+    <id>1528124455813</id>
+  </datatable_medications>
+</therapies_dataset>
